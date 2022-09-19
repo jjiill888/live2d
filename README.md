@@ -1,1 +1,1 @@
-# live2d spl model
+#  spl live2d model file
